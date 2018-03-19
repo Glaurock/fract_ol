@@ -16,3 +16,6 @@ Usage: ./fractol [enter a number]
 
 Use H to display help in the window. 
 
+## Example
+
+![picture](img/Screen Shot 2018-03-19 at 3.32.05 PM.png "Mandelbrot Set")
