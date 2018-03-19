@@ -18,4 +18,4 @@ Use H to display help in the window.
 
 ## Example
 
-![alt text](https://raw.githubusercontent.com/Glaurock/fract_ol/blob/master/img/Screen%20Shot%202018-03-19%20at%203.32.05%20PM.png)
+![alt text](img/Screen Shot 2018-03-19 at 3.32.05 PM.png "Mandelbrot Set")
