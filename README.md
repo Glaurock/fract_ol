@@ -15,3 +15,4 @@ Usage: ./fractol [enter a number]
 4: Creepy_face
 
 Use H to display help in the window. 
+
